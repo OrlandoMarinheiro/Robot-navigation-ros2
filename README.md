@@ -1,7 +1,6 @@
 # Robot Navigation with ROS 2 and Webots (TIAGo)
 
 ## Project Description
-Robot Navigation with ROS 2 and Webots (TIAGo)
 The objective of this project is to build a small robot application in ROS 2 using a simulated TIAGo robot in Webots, focusing on robotic navigation, and perception. The robot has a mobile base, a LiDAR sensor and an RGB-D camera.
 
 # Task 1 - Extending the Environment
