@@ -1,0 +1,54 @@
+# Semantic locations in the map frame
+# Adjust these coordinates based on your actual map
+# You can find coordinates by clicking "Publish Point" in RViz
+
+locations:
+  office:
+    x: -6.90
+    y: 1.73
+    z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  
+  kitchen:
+    x: -7.87
+    y: -8.27
+    z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.707
+      w: 0.707
+  
+  living_room:
+    x: -8.77
+    y: -4.97
+    z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+  
+  hallway:
+    x: -10.47
+    y: 0.62
+    z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: -0.707
+      w: 0.707
+  
+  bathroom:
+    x: -13.49
+    y: -0.31
+    z: 0.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 1.0
+      w: 0.0
